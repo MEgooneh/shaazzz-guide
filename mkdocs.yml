@@ -14,8 +14,6 @@ theme:
   features:
     - navigation.instant
     - navigation.tabs
-    - navigation.tracking
-    - toc.integrate
 plugins:
   - search
 extra:
