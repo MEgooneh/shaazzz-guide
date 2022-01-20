@@ -1,19 +1,14 @@
-# خانه
+---
+title: خانه
+hide:
+  - navigation
+  - toc
+---
 
+**شما می‌‌توانید در این پروژه مشارکت کنید. [اطلاعات بیشتر](/مشارکت/) **
 
-
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-$$ 3 + 5 $$
-
-## Project layout
-
-
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+- [**لغتنامه**‌](مطالب/لغتنامه/)
+- **شروع المپیاد**
+	- مسیر
+	- منابع
+	- سوالات متداول

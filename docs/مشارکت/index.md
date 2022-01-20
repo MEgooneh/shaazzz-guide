@@ -12,6 +12,10 @@
 
 این سایت از Markdown استفاده می کند. برای آشنایی با دستورات و نحوه ی ویرایش فایل ها با پسوند .md به این [لینک](https://www.markdownguide.org/basic-syntax/) مراجعه کنید.
 
+همچنین می‌توانید از [اینجا](https://stackedit.io/app) به صورت آنلاین متن Markdown بنویسید.
+
+***-همچنین افزونه هایی برای markdown نصب شده است که کارکرد و نحوه استفاده آن ها در این [لیست](https://squidfunk.github.io/mkdocs-material/reference/abbreviations/) آمده است.***
+
 #### MathJax
 
 برای تایپ عبارات ریاضی این سایت از [MathJax](https://www.mathjax.org/) استفاده می کند. برای آشنایی با دستورات به این [لینک](https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/) مراجعه کنید.
@@ -37,3 +41,20 @@ $\mathcal{O}(n\log{}n)$
 #### Material for MkDocs
 
 این سایت از <a href="https://github.com/squidfunk/mkdocs-material">Mkdocs Material</a> استفاده می کند و برای بهبود و اضافه کردن قابلیت ها می توانید به [منبع](https://squidfunk.github.io/mkdocs-material/getting-started/) آن مراجعه کنید.
+
+## توسعه شخصی
+
+برای اجرا بصورت آفلاین :
+
+```
+git clone https://MEgooneh/shaazzz-guide
+pip install mkdocs-material
+```
+ بعد از وارد شدن به پوشه ی <b>shaazzz-guide</b> دستور زیر را اجرا کنید :
+ 
+‍‍‍‍
+```
+ mkdocs serve 
+```
+
+
