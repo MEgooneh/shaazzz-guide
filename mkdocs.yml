@@ -12,7 +12,6 @@ theme:
     text: Shabnam
   features:
     - navigation.instant
-    - navigation.tabs
     - navigation.tracking
     - toc.integrate
 extra_css:
@@ -36,6 +35,9 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+plugins:
+  - search
+repo_url: https://github.com/MEgooneh/shaazzz-guide
 extra:
   social:
     - icon: fontawesome/brands/telegram
@@ -44,8 +46,6 @@ extra:
       link: https://shaazzz.ir
     - icon: fontawesome/brands/github
       link: https://github.com/shaazzz
-repo_url: https://github.com/MEgooneh/shaazzz-guide
-
 copyright:
   این راهنما عمومی است و تحت پروانه <a href="https://pdcommunity.ir/license/cc-by-sa" style="color:blue">cc-by-sa</a> در دسترس است.
 markdown_extensions:
