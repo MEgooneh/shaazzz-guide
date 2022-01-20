@@ -1,6 +1,6 @@
 # خانه
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+
 
 ## Commands
 
@@ -9,7 +9,7 @@ For full documentation visit [mkdocs.org](https://www.mkdocs.org).
 * `mkdocs build` - Build the documentation site.
 * `mkdocs -h` - Print help message and exit.
 
-$f(x) = x^2 + 2$
+$$ 3 + 5 $$
 
 ## Project layout
 

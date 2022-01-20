@@ -18,8 +18,10 @@
 
 به طور مثال :
 
-‍‍‍```
+```
+
 \mathcal{O}(n\log{}n)
+
 ```
 
 $\mathcal{O}(n\log{}n)$
