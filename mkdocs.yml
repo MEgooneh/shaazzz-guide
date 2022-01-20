@@ -18,7 +18,6 @@ theme:
     - toc.integrate
 plugins:
   - search
-  - git-revision-date
 extra:
   social:
     - icon: fontawesome/brands/telegram
