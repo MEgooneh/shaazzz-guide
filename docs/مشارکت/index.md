@@ -16,6 +16,14 @@
 
 برای تایپ عبارات ریاضی این سایت از [MathJax](https://www.mathjax.org/) استفاده می کند. برای آشنایی با دستورات به این [لینک](https://jojozhuang.github.io/tutorial/mathjax-cheat-sheet-for-mathematical-notation/) مراجعه کنید.
 
+به طور مثال :
+
+‍‍‍```
+\mathcal{O}(n\log{}n)
+```
+
+$\mathcal{O}(n\log{}n)$
+
 ## مشارکت غیرمحتوایی
 
 هرگونه بهبود، توسعه و بهینه کردن این راهنما آزاد و قابل انجام است.
